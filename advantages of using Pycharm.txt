@@ -1,0 +1,20 @@
+advantages of using Pycharm
+
+
+- shows which files need to be committed/pushed to git.
+- autocomplete with tab
+- shows difference between commits
+- shows applied differences (blue box shows on the right of the lone of code)
+
+-supports multiple languages
+- multiple OS
+- austosave (without running)
+- Terminal, pythonconsol, folders, text editor, and change the layout
+- Debugging (per line) also in total, breakpoints
+- alt + enter when a wrong reference is made to see intention action, you can choose install and import
+- switch color schemes
+- suggestions on pep8
+- use keyboard shortcuts (set up your own)
+- import packages
+- suggestions while typing, code completion, hinting
+- seach varriables, classes, ... throughout your project
